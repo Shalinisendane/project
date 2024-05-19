@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+header{
+    background-color: rgb(46, 46, 50);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+table{
+    border: 1px solid black;
+
+}
+th{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 4px;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+#com{
+    /* background-color: rgb(255, 255, 248); */
+    border-radius: 20px;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+/* #ulist{
+    text-align: center;
+} */
+
+/* <!-- -----------------------section  follows up ------------- --> */
+
+#info{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+#info img{
+   height:180px ;
+   width: 160px;
+}
+#info a{
+    background: #000000;
+}
+i{
+    margin: 10px;
+}
+#info i:hover{
+        background-color: rgb(18, 216, 223);
+        border-radius: 5px;
+}
